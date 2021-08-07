@@ -46,7 +46,8 @@
     "end_date": "18-04-2020",
     "title": "Junior Machine Learning Engineer",
     "institution": "Analyzing Domestic Violence and Online Harassment During COVID19 @Omdena with RedDot Foundation",
-    "category": "Development"
+    "category": "Development",
+    "subcategory": "Researching"
   },
 
   {
@@ -54,6 +55,7 @@
     "end_date": null,
     "title": "Data scientist",
     "institution": "RankMyApp",
-    "category": "Researching"
+    "category": "Development",
+    "subcategory": 'Researching"
   }
 ]
