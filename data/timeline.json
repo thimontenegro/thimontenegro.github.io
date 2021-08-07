@@ -12,7 +12,7 @@
     "end_date": "11-06-2021",
     "title": "Petiano",
     "institution": "Universidade Federal de Campina Grande",
-    "category": "Practicing"
+    "category": "Researching"
   },
 
   {
@@ -37,7 +37,7 @@
     "end_date": "23-03-2020",
     "title": "Junior Machine Learning Engineer",
     "institution": "AI for Disaster Response: Improving Emergency Management @Omdena with World Food Programee",
-    "category": "Researching",
+    "category": "Practicing",
     "subcategory": "Researching"
   },
 
@@ -46,7 +46,7 @@
     "end_date": "18-04-2020",
     "title": "Junior Machine Learning Engineer",
     "institution": "Analyzing Domestic Violence and Online Harassment During COVID19 @Omdena with RedDot Foundation",
-    "category": "Researching"
+    "category": "Practicing"
   },
 
   {
@@ -54,6 +54,6 @@
     "end_date": null,
     "title": "Data scientist",
     "institution": "RankMyApp",
-    "category": "Researching"
+    "category": "Practicing"
   }
 ]
