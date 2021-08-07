@@ -1,0 +1,36 @@
+[
+  {
+    "title": "AI for Disaster Response: Improving Emergency Management",
+    "description": "A collaborative Omdena team of 34 AI experts and data scientists worked with the World Food Programme to build solutions to predict affected populations and create customized relief packages for disaster response.",
+    "cover": "img/omdena.png",
+    "date": "20-01-2020",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Python - Machine Learning - Streamlit - Data Visualization",
+    "url": "https://omdena.com/projects/ai-disaster-response/"
+  },
+
+  {
+    "title": "Analyzing Domestic Violence and Online Harassment During COVID19",
+    "description": "In this project, award-winning Red Dot Foundation partnered with Omdena to apply various AI and NLP tools to better understand domestic violence and online harassment trends during COVID19.",
+    "cover": "img/omdena.png",
+    "date": "13-04-2019",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Python - NPL - Topic Modeling - Machine Learning - Data Mining - Document Annotation",
+    "url": "https://omdena.com/projects/ai-domestic-violence/"
+  },
+
+  {
+    "title": "A Fantástica Fábrica de... Gastos..",
+    "description": "Tool in which it is possible to understand the expenses of politicians in the state of Paraíba.",
+    "cover": "img/default.png",
+    "date": "01-08-2019",
+    "category": "research",
+    "isPublic": true,
+    "skills": "Data Visualization - JavaScript - VegaLite",
+    "url": "https://observablehq.com/@thiagocm/nossa-politica"
+  }
+
+
+]

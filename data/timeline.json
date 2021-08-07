@@ -1,0 +1,59 @@
+[
+  {
+    "start_date": "25-01-2016",
+    "end_date": "18-06-2021",
+    "title": "Bachelor in Computer Science",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Learning"
+  },
+
+  {
+    "start_date": "11-06-2019",
+    "end_date": "11-06-2021",
+    "title": "Petiano",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Researching"
+  },
+
+  {
+    "start_date": "21-02-2019",
+    "end_date": "01-06-2019",
+    "title": "Undergraduate Tutor in Data Structurs Laboratory",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Teaching",
+    "subcategory": "Tutor"
+  },
+  {
+    "start_date": "10-08-2020",
+    "end_date": "10-12-2020",
+    "title": "Undergraduate Tutor in Data Structurs Laboratory",
+    "institution": "Universidade Federal de Campina Grande",
+    "category": "Teaching",
+    "subcategory": "Tutor"
+  },
+  
+  {
+    "start_date": "20-01-2020",
+    "end_date": "23-03-2020",
+    "title": "Junior Machine Learning Engineer",
+    "institution": "AI for Disaster Response: Improving Emergency Management @Omdena with World Food Programee",
+    "category": "Researching",
+    "subcategory": "Researching"
+  },
+
+  {
+    "start_date": "13-04-2020",
+    "end_date": "18-04-2020",
+    "title": "Junior Machine Learning Engineer",
+    "institution": "Analyzing Domestic Violence and Online Harassment During COVID19 @Omdena with RedDot Foundation",
+    "category": "Researching"
+  },
+
+  {
+    "start_date": "17-09-2020",
+    "end_date": null,
+    "title": "Data scientist",
+    "institution": "RankMyApp",
+    "category": "Researching"
+  }
+]
