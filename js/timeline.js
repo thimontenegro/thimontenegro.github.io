@@ -64,7 +64,7 @@ var y = d3.scaleBand().range([height / 1.5, margin.top]);
 var fill = d3.scaleOrdinal().range([d3.rgb('#AC3BD4'),
 d3.rgb('#FF9840'),
 d3.rgb('#34C6CD'),
-d3.rgb('#F2FD3F')
+d3.rgb('#FF2E36')
 ]);
 
 var xAxis = d3.axisBottom(x).ticks(d3.timeYear.every(1));
